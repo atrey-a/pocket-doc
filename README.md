@@ -13,7 +13,7 @@ A UNIX-based operating system is recommended. The project can even be run on Git
 
 ### Run the project
 
-Rename [`.env.example`](.env.example) to `.env,` and fill in the missing keys.
+Rename [`.env.example`](.env.example) to `.env`, and fill in the missing keys.
 
 Start the project with the following command:
 
@@ -23,4 +23,4 @@ docker compose up -d --build
 
 ### Test the project
 
-Open the telegram bot whose API key was used in the `.env` file. 
+Open the telegram bot whose API key was used in the `.env` file. Run the bot with the `/start` command.
